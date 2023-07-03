@@ -1,0 +1,11 @@
+{
+  "files": ["src/main.ts", "src/store/tasksStore.ts"],
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    }
+  ]
+}
